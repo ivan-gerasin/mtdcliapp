@@ -1,4 +1,4 @@
-package mtdcliapp
+package main
 
 import "mtdcliapp/mtdcli"
 
